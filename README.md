@@ -9,7 +9,7 @@
 
 You can find me here too 👇
 
-<a href="https://www.linkedin.com/in/aline-sathler-delfino-50172531/?locale=en_US" target="_blank">
+<a href="https://www.linkedin.com/in/alinesathler/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
